@@ -1,16 +1,16 @@
 ﻿# Anexo B: Guía de instalación de Git para sistemas Windows
 
-"Git Bash" es una herramienta de línea de comandos que le permitirá acceder a Git.  Desde aquí, usted será capaz de navegar por el disco duro con el comando “cd” y acceder a su directorio del proyecto. Si usted está familiarizado con Linux o BSD, tendrán acceso a una serie de herramientas de línea de comandos de UNIX. Y por supuesto, usted tendrá acceso a Git.
+"Git Bash" es una herramienta de línea de comandos que le permitirá acceder a Git.  Desde aquí, usted será capaz de navegar por el disco duro con el comando “cd” y acceder a su directorio del proyecto. Si usted está familiarizado con Linux o BSD, tendrá acceso a una serie de herramientas de línea de comandos de UNIX. Y por supuesto, acceso a Git!
 
-Este anexo lo guiará a través del proceso de instalación de Git Bash (Asistente).
+Este anexo, lo guiará a través del proceso de instalación de Git Bash (Asistente).
 
-Primero, deberá descargar la versión adecuada
+**Primero**, deberá descargar la versión adecuada:
 
 http://git-scm.com/downloads
-Nota: En esta página, usted encontrará una serie de enlaces de descarga a la derecha, y enlaces a la documentación e información a la izquierda.
 
-Finalmente, ejecute la aplicación de instalación.
+**Nota:** En esta página, usted encontrará una serie de enlaces de descarga a la derecha, y enlaces a la documentación e información a la izquierda.
 
+**Finalmente**, ejecute la aplicación de instalación y si está seguro de qué elegir en cada pantalla:
 
 ## Paso 1
 El instalador de Git es bastante sencillo (elija las opciones por defecto).
