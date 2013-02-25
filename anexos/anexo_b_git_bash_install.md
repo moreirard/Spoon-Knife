@@ -6,11 +6,11 @@ Este anexo, lo guiará a través del proceso de instalación de Git Bash (Asiste
 
 **Primero**, deberá descargar la versión adecuada:
 
-http://git-scm.com/downloads
+> http://git-scm.com/downloads
 
-**Nota:** En esta página, usted encontrará una serie de enlaces de descarga a la derecha, y enlaces a la documentación e información a la izquierda.
+>> **Nota:** En esta página, usted encontrará una serie de enlaces de descarga a la derecha, y enlaces a la documentación e información a la izquierda.
 
-**Finalmente**, ejecute la aplicación de instalación y si está seguro de qué elegir en cada pantalla:
+**Finalmente**, ejecute la aplicación de instalación y si no está seguro de qué elegir en cada pantalla:
 
 ## Paso 1
 El instalador de Git es bastante sencillo (elija las opciones por defecto).
